@@ -1,0 +1,22 @@
+{
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "basic",
+  "venvPath": ".",
+  "venv": "venv",
+  "exclude": [
+    "venv/**",
+    "**/__pycache__/**",
+    "**/.*"
+  ],
+  "reportMissingModuleSource": "none",
+  "reportMissingImports": "warning",
+  "reportUnusedImport": "warning",
+  "reportGeneralTypeIssues": "none",
+  "reportAttributeAccessIssue": "none",
+  "reportOptionalMemberAccess": "none",
+  "reportCallIssue": "none",
+  "reportIndexIssue": "none",
+  "reportOperatorIssue": "none",
+  "reportReturnType": "none",
+  "reportArgumentType": "none"
+}

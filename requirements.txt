@@ -1,0 +1,41 @@
+# ============================================================
+#  Context-Aware RAG Chatbot — Dependencies
+#  Python 3.10+
+#  All packages are free and open source
+# ============================================================
+
+# ── LangChain Core ─────────────────────────────────────────
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.61
+langchain-groq==0.3.2
+langchain-huggingface==0.1.2
+langchain-chroma==0.2.4
+
+# ── LLM Backend (Groq) ─────────────────────────────────────
+groq==0.25.0
+
+# ── Vector Store (must be >=1.0.9 for langchain-chroma 0.2.4) ─
+chromadb>=1.0.9
+
+# ── Embeddings ─────────────────────────────────────────────
+sentence-transformers==3.4.1
+torch>=2.2.0
+transformers==4.51.3
+
+# ── Document Processing ────────────────────────────────────
+pypdf==5.4.0
+requests==2.32.3
+
+# ── Streamlit UI ───────────────────────────────────────────
+streamlit==1.45.1
+
+# ── Environment Management ─────────────────────────────────
+python-dotenv==1.1.0
+
+# ── Scientific Computing ───────────────────────────────────
+numpy>=1.24.0
+
+# ── Testing ────────────────────────────────────────────────
+pytest==8.3.5
+pytest-cov==6.1.0
