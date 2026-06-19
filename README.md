@@ -84,6 +84,10 @@ The knowledge base is automatically populated by downloading **10 seminal AI/ML 
 │   │  • Full history persisted separately for display     │  │
 │   └──────────────────────────────────────────────────────┘  │
 └─────────────────────────────────────────────────────────────┘
+<img width="1024" height="559" alt="WhatsApp Image 2026-06-19 at 7 05 30 PM" src="https://github.com/user-attachments/assets/7d78997d-0c8e-4650-b02c-5ac17853805f" />
+
+
+
 ```
 
 ---
